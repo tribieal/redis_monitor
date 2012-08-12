@@ -1,1 +1,4 @@
 useage http://rdmo.zhangxiaoyang.com:8055/_get_info/10.28.28.212/6379
+need redis-py so run:
+easy_install redis
+
